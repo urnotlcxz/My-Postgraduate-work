@@ -1,0 +1,19 @@
+﻿  2018913.cpp
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(789): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(790): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(824): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(825): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(933): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(934): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(974): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\lcxz\desktop\2018-9-13周三\2018913\2018913\2018913.cpp(975): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  2018913.vcxproj -> C:\Users\LCXZ\Desktop\2018-9-13周三\2018913\Debug\2018913.exe
+  2018913.vcxproj -> C:\Users\LCXZ\Desktop\2018-9-13周三\2018913\Debug\2018913.pdb (Full PDB)
